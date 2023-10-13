@@ -1,0 +1,2 @@
+o git bash é um terminal extendido para otimizar o uso do git
+cria repositorio no github> edita como quiser> copia link> cria pasta> abre git bash> git clone + link copiado .

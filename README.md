@@ -4,11 +4,11 @@ Repositório criaqdo para o Desafio de Projeto
 ## Estudos📚📒
 - 10 comandos que todo dev precisa conhecer [AQUI](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
 
-- cursos DIO [AQUI](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+- Cursos DIO [AQUI](https://web.dio.me)
 
--
+- Curso de inglÊs [AQUI](https://curso.mairovergara.com/login)
 
--
+- Curso Comunidae Ada [AQUI](https://sso.ada.tech)
 
 ...
 

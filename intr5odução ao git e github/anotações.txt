@@ -1,2 +1,10 @@
 o git bash é um terminal extendido para otimizar o uso do git
-cria repositorio no github> edita como quiser> copia link> cria pasta> abre git bash> git clone + link copiado .
+
+para enviar do remoto para local:
+
+*cria repositorio no github> edita como quiser> copia link> cria pasta> abre git bash> git clone + link copiado .
+
+enviar do local para remoto:
+
+*editaarquivo> da git add .(para adicionar)> git status(para ver)> Git commit -m "(e da um nome)"> git push origin main
+
